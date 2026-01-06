@@ -1,0 +1,167 @@
+header{
+       
+       display: flex;
+       justify-content: space-between;
+       margin-left: 150px;
+       
+} 
+ 
+a{
+       color:gray;
+       text-decoration: none;
+
+}
+
+.ul_nav{
+       display: flex;
+       gap: 20px;
+       margin-right: 150px;
+       font-size: 16px;
+
+}
+
+.me{
+      color: #00b39b;
+
+}
+
+
+.section_1{
+       display: flex;
+       justify-content: center;
+       flex-direction: column;
+       align-items: center;
+       height: 400px;
+
+
+
+}
+.him{
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+
+
+}
+
+.at{
+    width: 70px;
+    height: 70px;
+       
+    
+}
+
+.para1{
+  
+       display: flex;
+       width: 60%;
+       gap: 10px;
+       font-size: 18px;
+       color: gray;
+
+}
+h1{ color: #00b39b;}
+
+
+.section_2{
+
+
+display: flex;
+justify-content: center;
+height: 250px;
+text-align: center;
+gap: 30px;
+height: 350px;
+
+
+}
+
+.box1{
+   background-color: rgb(72, 216, 132);
+   height: 300px;
+   width: 260px;
+   border-radius: 12px;
+   font-size: 25px;
+   padding: 20px;
+   
+}
+
+.box2{
+     background-color: #00b39b;
+     height: 300px;
+     width: 260px;
+     border-radius: 12px;
+     font-size: 25px;
+     padding: 20px;
+     
+}
+
+.box3{
+     background-color: rgb(90, 90, 212);
+     width:260px;
+     height: 300px;
+     border-radius: 12px;
+     font-size: 25px;
+     padding: 20px;
+     
+
+}
+h2{font-size: 25px;}
+h3{font-size: 25px;}
+h4{font-size: 25px;}
+
+
+.section_3{
+       width: 70%;
+       background-color: blueviolet;
+
+display: flex;
+gap: 20px;
+margin: auto;
+
+}
+
+.img_taille1{
+     background-color: blue;
+     
+     height: 30px;
+
+}
+.img_taille{
+       height:20px ;
+
+}
+
+h5{
+       background-color: blue;
+   
+       width: 20%;
+       font-size: 23px;
+
+}
+       
+
+
+
+.brand_logos{
+
+background-color: aqua;
+display: flex;
+flex-wrap: wrap;
+width: 88%;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+    
